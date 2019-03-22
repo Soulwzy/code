@@ -1,0 +1,8 @@
+F:\Visual Stdio\Catch me\Catch me\bin\Debug\Catch me.exe.config
+F:\Visual Stdio\Catch me\Catch me\bin\Debug\Catch me.exe
+F:\Visual Stdio\Catch me\Catch me\bin\Debug\Catch me.pdb
+F:\Visual Stdio\Catch me\Catch me\obj\Debug\Catch_me.Form1.resources
+F:\Visual Stdio\Catch me\Catch me\obj\Debug\Catch_me.Properties.Resources.resources
+F:\Visual Stdio\Catch me\Catch me\obj\Debug\Catch me.csproj.GenerateResource.Cache
+F:\Visual Stdio\Catch me\Catch me\obj\Debug\Catch me.exe
+F:\Visual Stdio\Catch me\Catch me\obj\Debug\Catch me.pdb

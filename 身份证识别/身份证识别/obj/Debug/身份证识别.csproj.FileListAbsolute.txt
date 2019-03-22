@@ -1,0 +1,9 @@
+F:\Visual Stdio\身份证识别\身份证识别\bin\Debug\身份证识别.exe.config
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.csprojResolveAssemblyReference.cache
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.Form1.resources
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.Properties.Resources.resources
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.csproj.GenerateResource.Cache
+F:\Visual Stdio\身份证识别\身份证识别\bin\Debug\身份证识别.exe
+F:\Visual Stdio\身份证识别\身份证识别\bin\Debug\身份证识别.pdb
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.exe
+F:\Visual Stdio\身份证识别\身份证识别\obj\Debug\身份证识别.pdb

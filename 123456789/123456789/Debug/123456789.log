@@ -1,0 +1,12 @@
+﻿生成启动时间为 2016/10/2 12:52:00。
+     1>项目“F:\Visual Stdio\123456789\123456789\123456789.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         E:\visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Visual Stdio\123456789\Debug\123456789.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Visual Stdio\123456789\Debug\123456789.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Visual Stdio\123456789\Debug\123456789.lib" /MACHINE:X86 Debug\test.obj
+     1>test.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall DB::DB(void)" (??0DB@@QAE@XZ)，该符号在函数 "public: __thiscall CMenu::CMenu(void)" (??0CMenu@@QAE@XZ) 中被引用
+     1>test.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall DB::~DB(void)" (??1DB@@QAE@XZ)，该符号在函数 "public: __thiscall CMenu::~CMenu(void)" (??1CMenu@@QAE@XZ) 中被引用
+     1>F:\Visual Stdio\123456789\Debug\123456789.exe : fatal error LNK1120: 2 个无法解析的外部命令
+     1>已完成生成项目“F:\Visual Stdio\123456789\123456789\123456789.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.74

@@ -1,0 +1,9 @@
+F:\Visual Stdio\caculator\caculator\bin\Debug\caculator.exe.config
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.csprojResolveAssemblyReference.cache
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.Form1.resources
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.Properties.Resources.resources
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.csproj.GenerateResource.Cache
+F:\Visual Stdio\caculator\caculator\bin\Debug\caculator.exe
+F:\Visual Stdio\caculator\caculator\bin\Debug\caculator.pdb
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.exe
+F:\Visual Stdio\caculator\caculator\obj\Debug\caculator.pdb

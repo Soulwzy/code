@@ -1,0 +1,9 @@
+F:\Visual Stdio\直线\直线\bin\Debug\直线.exe.config
+F:\Visual Stdio\直线\直线\obj\Debug\直线.csprojResolveAssemblyReference.cache
+F:\Visual Stdio\直线\直线\obj\Debug\直线.Form1.resources
+F:\Visual Stdio\直线\直线\obj\Debug\直线.Properties.Resources.resources
+F:\Visual Stdio\直线\直线\obj\Debug\直线.csproj.GenerateResource.Cache
+F:\Visual Stdio\直线\直线\bin\Debug\直线.exe
+F:\Visual Stdio\直线\直线\bin\Debug\直线.pdb
+F:\Visual Stdio\直线\直线\obj\Debug\直线.exe
+F:\Visual Stdio\直线\直线\obj\Debug\直线.pdb

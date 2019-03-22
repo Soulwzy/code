@@ -1,0 +1,9 @@
+F:\Visual Stdio\红绿灯\红绿灯\bin\Debug\红绿灯.exe.config
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.csprojResolveAssemblyReference.cache
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.Form1.resources
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.Properties.Resources.resources
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.csproj.GenerateResource.Cache
+F:\Visual Stdio\红绿灯\红绿灯\bin\Debug\红绿灯.exe
+F:\Visual Stdio\红绿灯\红绿灯\bin\Debug\红绿灯.pdb
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.exe
+F:\Visual Stdio\红绿灯\红绿灯\obj\Debug\红绿灯.pdb

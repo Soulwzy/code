@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/10/22 13:32:21。
+     1>项目“F:\Visual Stdio\C++作业\C++作业\C++作业.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\visual\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "模板数组类，内存可以自增长.cpp"
+         模板数组类，内存可以自增长.cpp
+     1>f:\visual stdio\c++作业\c++作业\模板数组类，内存可以自增长.cpp(96): warning C4172: 返回局部变量或临时变量的地址
+                 f:\visual stdio\c++作业\c++作业\模板数组类，内存可以自增长.cpp(84): 编译类 模板 成员函数“int &Array<int>::operator [](int) const”时
+                 f:\visual stdio\c++作业\c++作业\模板数组类，内存可以自增长.cpp(198): 参见对正在编译的函数 模板 实例化“int &Array<int>::operator [](int) const”的引用
+                 f:\visual stdio\c++作业\c++作业\模板数组类，内存可以自增长.cpp(186): 参见对正在编译的类 模板 实例化“Array<int>”的引用
+       Link:
+         E:\visual\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Visual Stdio\C++作业\Debug\C++作业.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Visual Stdio\C++作业\Debug\C++作业.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Visual Stdio\C++作业\Debug\C++作业.lib" /MACHINE:X86 "Debug\修改下面代码中的模板语法错误.obj"
+         "Debug\模板数组类，内存可以自增长.obj"
+         "Debug\队列模板的实现.obj"
+         C++作业.vcxproj -> F:\Visual Stdio\C++作业\Debug\C++作业.exe
+     1>已完成生成项目“F:\Visual Stdio\C++作业\C++作业\C++作业.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78

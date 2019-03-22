@@ -1,0 +1,9 @@
+F:\Visual Stdio\抓住我\抓住我\bin\Debug\抓住我.exe.config
+F:\Visual Stdio\抓住我\抓住我\bin\Debug\抓住我.exe
+F:\Visual Stdio\抓住我\抓住我\bin\Debug\抓住我.pdb
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.Form1.resources
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.Properties.Resources.resources
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.csproj.GenerateResource.Cache
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.exe
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.pdb
+F:\Visual Stdio\抓住我\抓住我\obj\Debug\抓住我.csprojResolveAssemblyReference.cache
